@@ -1,0 +1,15 @@
+Email :- "rahulrkrk2003@gmail.com"
+Password :- "xhvgfgddinpyaktz"
+subject = "Get Your Certificate, Your Participation Shined at the Ecell Aceit Startup Expo!"
+body_msg = '''Warm greetings from Ecell Aceit! We were thrilled to have you participate in the Startup Expo. Your contribution and innovative spirit truly shined!
+
+    Congratulations on your accomplishment! We're excited to present you with your Ecell Aceit Startup Expo certificate, attached to this email. It's a testament to your hard work and dedication.
+
+    We were inspired by your participation, and we'd love to see you continue your entrepreneurial journey. Stay tuned for upcoming events and opportunities to connect with mentors and fellow innovators!
+
+    Thank you again for being a part of the Ecell Aceit Startup Expo. We look forward to seeing you shine at future events!
+
+    Sincerely,
+
+    The Ecell Aceit Team'''
+
